@@ -1,0 +1,53 @@
+body{
+   background-color: rgb(135, 173, 140);
+   margin: auto;
+   
+}
+*{ margin: auto;
+}
+
+.conteneur{
+   background-color: white;
+   width: 60%;
+   margin: 0 auto;
+   border: 2px;
+   
+}
+
+
+ footer{
+   position:absolute;
+   bottom: 0%;
+   text-align: left;
+
+}
+a{
+   text-decoration: none;
+   background-color: rgb(131, 184, 51);
+   padding: 5px;
+   border-radius: 5px;
+   color: aliceblue;
+   font-size: 20px;
+}
+nav{
+   background-color: rgb(131, 184, 51);
+   padding: 5px;
+   display: flex;
+   justify-content: space-around;
+}
+
+h2 div{
+   color: rgb(131, 184, 51);
+   margin:0%;
+   
+
+}
+p{
+   text-align:right ;
+   width: 50%;
+   padding-right: 0 30px 0 100px;
+   margin-top: auto;
+   
+   
+
+}
